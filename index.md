@@ -2,7 +2,7 @@
 layout: cv
 title: beyoncé CV
 ---
-# beyonce
+# beyonce <mark>Beyoncé CV</mark>
 artiste , chanteuse , entrepreneuse, actrice 
 
 <div id="webaddress">
@@ -11,7 +11,7 @@ artiste , chanteuse , entrepreneuse, actrice
 </div>
 
 
-## actuellement 
+##  <span style="background-color:lightblue;">acutuellement 
 
 En tournée mondiale et engagée dans des projets philanthropiques
 
