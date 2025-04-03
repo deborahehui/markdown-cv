@@ -1,91 +1,57 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: beyoncé CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# beyonce
+artiste , chanteuse , entrepreneuse, actrice 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.beyonce.com">Site officiel</a>
+| <a href="http://en.wikipedia.org/wiki/Beyoncé">My wikipedia page</a>
 </div>
 
 
-## Currently
+## actuellement 
 
-Standing on the shoulders of giants
+En tournée mondiale et engagée dans des projets philanthropiques
 
-### Specialized in
+### Specialisée dans 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- musique
+- performance scénique
+- production musicale
+- mode et busines 
 
 
-### Research interests
+### centre d'intéret 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- défense des droit des femmes
+- aide aux communautés défavorisée
+- creation artistique et innovation
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1990s`
+high shcool for the performing and visual arts
 
-`June 1661 - now`
-__Trinity College, Cambridge__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+## récompenses 
+28 grammy awards ( record pour une artiste féminine)
+golden globe nominee pour " Dreamgirls"
 
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+## films
+dreamsgirls (2006)
+cadillac records (2008)
+obsessed (2009)
+the lion king ( 2019, voix de Nala)
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+# occupation
+chanteuse et productrice
+actrice 
+entrepreneuse 
 
 
