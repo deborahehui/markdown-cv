@@ -32,8 +32,10 @@ En tournée mondiale et engagée dans des projets philanthropiques
 
 ## Education
 
-`1990s`
+1990s
 high shcool for the performing and visual arts
+1990 
+alief elsik hight school , houston texas
 
 
 ## récompenses 
