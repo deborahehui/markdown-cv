@@ -1,6 +1,4 @@
----
-layout: cv
-title: beyoncé CV
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.francebleu.fr%2Finfos%2Fculture-loisirs%2Fla-chanteuse-americaine-beyonce-sort-son-nouvel-album-en-rendant-hommage-a-la-musique-country-7290096&psig=AOvVaw0mR8F5S_lfRgszxOVIYrHc&ust=1743778068696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDE5tWNvIwDFQAAAAAdAAAAABAE
 ---
 # <mark>Beyoncé CV</mark>
 artiste , chanteuse , entrepreneuse, actrice 
