@@ -51,7 +51,7 @@ obsessed (2009)
 the lion king ( 2019, voix de Nala)
 
 
-# occupation
+## occupation
 chanteuse et productrice
 actrice 
 entrepreneuse 
