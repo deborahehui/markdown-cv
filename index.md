@@ -2,7 +2,7 @@
 layout: cv
 title: beyoncé CV
 ---
-# beyonce <mark>Beyoncé CV</mark>
+# <mark>Beyoncé CV</mark>
 artiste , chanteuse , entrepreneuse, actrice 
 
 <div id="webaddress">
@@ -11,11 +11,11 @@ artiste , chanteuse , entrepreneuse, actrice
 </div>
 
 
-##  <span style="background-color:lightblue;">acutuellement 
+## <mark>acutuellement</mark>
 
 En tournée mondiale et engagée dans des projets philanthropiques
 
-### Specialisée dans 
+### <mark>spécialisée dans</mark>
 
 - musique
 - performance scénique
@@ -23,14 +23,14 @@ En tournée mondiale et engagée dans des projets philanthropiques
 - mode et busines 
 
 
-### centre d'intéret 
+### <mark>centre d'intéret</mark>
 
 - défense des droit des femmes
 - aide aux communautés défavorisée
 - creation artistique et innovation
 
 
-## Education
+## <mark>éducation </mark>
 
 1990s
 high shcool for the performing and visual arts
@@ -38,20 +38,20 @@ high shcool for the performing and visual arts
 alief elsik hight school , houston texas
 
 
-## récompenses 
+## <mark>Récompense</mark>
 28 grammy awards ( record pour une artiste féminine)
 golden globe nominee pour " Dreamgirls"
 
 
 
-## films
+## <mark>Films</mark>
 dreamsgirls (2006)
 cadillac records (2008)
 obsessed (2009)
 the lion king ( 2019, voix de Nala)
 
 
-### occupation
+### <mark>Occupation</mark>
 chanteuse et productrice
 actrice 
 entrepreneuse 
